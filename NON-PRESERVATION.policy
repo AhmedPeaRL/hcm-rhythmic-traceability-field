@@ -1,0 +1,11 @@
+RULE: No preservation layer is allowed.
+
+
+Forbidden:
+- Databases
+- Logs
+- Snapshots
+- Versioning for meaning
+
+
+Any form of durable storage invalidates this
